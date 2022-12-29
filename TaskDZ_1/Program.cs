@@ -45,8 +45,8 @@ else { Console.WriteLine($"Остаток от деления числа a = {a}
 // Задача 8. Напишите программу, которая на вход принимает число (N), а на выходе показывает все четные
 // числа от 1 до N
 Console.WriteLine("Введите число N = ");
-N = Convert.ToInt32(Console.ReadLine());
-i = 1;
+int N = Convert.ToInt32(Console.ReadLine());
+int i = 1;
 while (i <= N)
 {
     if (i % 2 == 0)
