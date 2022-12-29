@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Workstation\\Desktop\\GitEducation\\C#Seminar\\1\\1.csproj",
+      "projectUniqueName": "C:\\Users\\Workstation\\Desktop\\GitEducation\\C#Seminar\\1\\task00\\1.csproj",
       "projectName": "1",
-      "projectPath": "C:\\Users\\Workstation\\Desktop\\GitEducation\\C#Seminar\\1\\1.csproj",
+      "projectPath": "C:\\Users\\Workstation\\Desktop\\GitEducation\\C#Seminar\\1\\task00\\1.csproj",
       "packagesPath": "C:\\Users\\Workstation\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Workstation\\Desktop\\GitEducation\\C#Seminar\\1\\obj\\",
+      "outputPath": "C:\\Users\\Workstation\\Desktop\\GitEducation\\C#Seminar\\1\\task00\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Workstation\\AppData\\Roaming\\NuGet\\NuGet.Config"
